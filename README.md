@@ -1,6 +1,10 @@
 # system-for-a-smart-transportation
 java Assignment  designing a system for a smart transportation management application. The system must manage  various types of vehicles operating in a smart city, including public vehicles, private vehicles, and  autonomous delivery vehicles
 
+![vehicle (2)](https://github.com/user-attachments/assets/e2bb9734-a893-4950-ba34-1628a230de08)
+
+
+
 ## ✅ Object-Oriented Programming Concepts Demonstrated in the Code
 The application demonstrates:
 - Multi-level inheritance
